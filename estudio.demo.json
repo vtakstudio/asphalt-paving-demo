@@ -1,0 +1,13 @@
+{
+  "client_name": "Asphalt Paving Demo",
+  "client_slug": "asphalt-paving-demo",
+  "industry": null,
+  "github_org": "vtakstudio",
+  "repo_name": "asphalt-paving-demo",
+  "worker_name": "asphalt-paving-demo",
+  "pricing_preset": "250-50",
+  "stripe_environment": "live",
+  "twenty_opportunity_id": "957d473d-0367-49cb-8d56-721f5763f89c",
+  "created_at": "2026-06-29T17:22:52.902Z",
+  "source_tool": "estudio publish"
+}
